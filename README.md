@@ -17,12 +17,11 @@
   ### Pra me conhecer melhor e o meu trabalho na programação me segue redes abaixo!
  
 <div>
-<fieldset>
+
 <a href = "mailto:ana.capelcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-carolina-capel-c-194b601b4"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-carolina-capel-c-194b601b4"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </fieldset>
- 
+  
   ![Snake animation](https://github.com/carolcapel/carolcapel/blob/output/github-contribution-grid-snake.svg)
 
 </div>
