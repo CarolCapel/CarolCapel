@@ -2,8 +2,9 @@
 
  <div>
    <a href="https://github.com/CarolCapel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolCapel&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolCapel&layout=compact&langs_count=6&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolCapel&show_icons=true&theme=nightowlt&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolCapel&layout=compact&langs_count=6&theme=nightowl"/>
+
 </div>
  
 <div style="display: inline_block"><br>
@@ -22,6 +23,6 @@
   <a href="https://www.linkedin.com/in/ana-carolina-capel-c-194b601b4"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-carolina-capel-c-194b601b4"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/carolcapel/carolcapel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CarolCapel/CarolCapel/blob/output/github-contribution-grid-snake.svg)
 
 </div>
