@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Capel 😁
+## Bem-vindo(a) ao perfil da Capel 💜
 
  <div>
    <a href="https://github.com/CarolCapel">
