@@ -1,5 +1,9 @@
 ## Bem-vindo(a) ao perfil da Capel 💜
 
+👨‍💻 Em Busca do meu primeiro Emprego Front-End
+
+##
+
  <div>
    <a href="https://github.com/CarolCapel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolCapel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
