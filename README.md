@@ -22,9 +22,7 @@
   
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-   ![MyEmoji_20230409_004633_17832](https://github.com/CarolCapel/CarolCapel/assets/108011375/000d1c05-eae6-4897-b297-82cb2d6b9adf )
-   
-</div>
+ </div>
  
  <br>
  
@@ -37,5 +35,10 @@
   <a href="https://www.linkedin.com/in/ana-carolina-capel-c-194b601b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+##
+
+ ![MyEmoji_20230409_004633_17832](https://github.com/CarolCapel/CarolCapel/assets/108011375/000d1c05-eae6-4897-b297-82cb2d6b9adf )
+   
  
 
