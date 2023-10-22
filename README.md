@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil da Capel 💜
 
 
-👨‍💻 Em Busca do meu primeiro Emprego Front-End.
+👨‍💻 Em Busca do meu primeiro Emprego Dev Front-End.
 
 
 ##
