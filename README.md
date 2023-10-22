@@ -4,7 +4,8 @@
  <br> 
   
 👨‍💻 Em Busca do meu primeiro Emprego Dev Front-End.
-👸🏻 Ela/Dela ![Bisexual_Pride](https://github.com/CarolCapel/CarolCapel/assets/108011375/d0b8ed47-edc5-4fed-9d8d-cc64dbf2eaed) 🏳️‍🌈 
+👸🏻 Ela/Dela 🏳️‍🌈 
+![Bisexual_Pride](https://github.com/CarolCapel/CarolCapel/assets/108011375/d0b8ed47-edc5-4fed-9d8d-cc64dbf2eaed) 
 
 
  <br>
