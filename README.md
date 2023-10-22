@@ -22,7 +22,7 @@
   
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-   ![MyEmoji_20230409_004633_17832](https://github.com/CarolCapel/CarolCapel/assets/108011375/000d1c05-eae6-4897-b297-82cb2d6b9adf)
+   ![MyEmoji_20230409_004633_17832](https://github.com/CarolCapel/CarolCapel/assets/108011375/000d1c05-eae6-4897-b297-82cb2d6b9adf )
    
 </div>
  
