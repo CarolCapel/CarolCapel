@@ -49,7 +49,6 @@
 
 ##
 
- ![MyEmoji_20230409_004633_17832](https://github.com/CarolCapel/CarolCapel/assets/108011375/000d1c05-eae6-4897-b297-82cb2d6b9adf )
-   
  
 
+![AREmoji_20231024_143305_40334](https://github.com/CarolCapel/CarolCapel/assets/108011375/5b32dc78-0dbf-4f83-b341-e43667a7e725)
