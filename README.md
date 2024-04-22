@@ -7,6 +7,7 @@
  <br> 
 👸🏻 Ela/Dela 
 ![Bisexual_Pride_Flag svg (1)](https://github.com/CarolCapel/CarolCapel/assets/108011375/7426fb0d-db2e-40fb-a6fd-c6644e9b29eb)
+
 🏳️‍🌈 
 <br>
  
